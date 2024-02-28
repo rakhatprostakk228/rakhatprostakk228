@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm RakhatProstakk</h1>
-<h3 align="center">I am beginner frontend developer from Kazakhstan</h3>
+<h3 align="center">I am just beginner from Kazakhstan</h3>
 
 - 🔭 I’m currently working on **JavaScript learning**
 
-- 📫 How to reach me **ahat0405@mail.ru**
+- 📫 How to reach me **https://t.me/opakakayapiska**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
