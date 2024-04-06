@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **JavaScript learning**
 
-- 📫 How to reach me **https://t.me/opakakayapiska**
+- 📫 How to reach me **https://t.me/rakhatprostakk**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
