@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm RakhatProstakk</h1>
 <h3 align="center">I am just beginner from Kazakhstan</h3>
 
-- 🔭 I’m currently working on **JavaScript learning**
+- 🔭 I’m currently working on **React learning**
 
 - 📫 How to reach me **https://t.me/rakhatprostakk**
 
